@@ -40,3 +40,4 @@ git clone https://github.com/iSgnik/portifolio.git
 cd portfolio
 # abra o index.html no navegador
 ```
+- Atualização: seção de documentos adicionada
