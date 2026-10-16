@@ -41,3 +41,4 @@ cd portfolio
 # abra o index.html no navegador
 ```
 - Atualização: seção de documentos adicionada
+- Atualização: seção de documentos adicionada
