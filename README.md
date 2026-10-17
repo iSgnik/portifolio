@@ -13,8 +13,6 @@ portifolio/
 ├── index.html
 ├── assets/                 # CSS e imagens
 ├── docs/                   # documentos e slides
-├── projetos-academicos/
-│   └── governanca-ti/
 └── projetos-pessoais/
     ├── med-tracker/
     └── oficina-api/
