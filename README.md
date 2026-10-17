@@ -4,7 +4,6 @@ Repositório com meus projetos acadêmicos e pessoais, versionado com Git e publ
 
 - 🔗 **Site:** https://iSgnik.github.io/portifolio/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/fernando-machado-de-faria-a47660444/
-- 🎥 **Apresentação (5 min):** https://youtu.be/SEU-VIDEO
 
 ## Estrutura
 
