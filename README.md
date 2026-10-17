@@ -24,7 +24,6 @@ portifolio/
 
 | Projeto | Tipo | Descrição |
 |---|---|---|
-| [Governança de TI](projetos-academicos/governanca-ti/) | Acadêmico | Projeto da disciplina de Governança de TI |
 | [med-tracker](projetos-pessoais/med-tracker/) | Pessoal | Projeto em Python |
 | [oficina_api](projetos-pessoais/oficina-api/) | Pessoal | API |
 
